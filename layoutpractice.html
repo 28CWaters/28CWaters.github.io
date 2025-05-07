@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weebsite</title>
+    <style>
+        body {
+            width: 80%;
+            margin: auto;
+        }
+        header,nav,article,footer{
+            background-color:#004966 ;
+            border: 5px solid #002152;
+            margin: 5px;
+            padding: 0px;
+            text-align: justify;
+        }
+        nav{
+            position: sticky;
+            top: 0px;
+        }
+        @media only screen and (max-width: 600px){
+        body{
+            width: 80%;
+        }    
+            
+            #content {
+            display:flex;
+        }
+        nav{
+            position: static;
+        }
+        nav ul {
+            display: block;
+        }
+        }
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 0px;
+}
+nav ul li {
+    list-style-type: none;
+}
+
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Header</h1>
+        <div id="content">
+            <nav>
+                <ul>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                </ul>
+            </nav>
+            <div id="blogs">
+                <article>
+                    <h2>blog post</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at ligula a erat dignissim tristique a eget diam. Quisque ultrices in augue sit amet bibendum. Curabitur accumsan accumsan massa, quis vestibulum dolor vehicula in. Praesent diam nibh, auctor eu arcu at, feugiat pellentesque turpis. Proin ac varius orci. Integer fermentum, nibh quis hendrerit volutpat, sapien urna porttitor magna, tempor accumsan ligula est et nulla. Nunc finibus ipsum ut magna dictum, eget sollicitudin risus commodo. Fusce fringilla nisi vitae elementum scelerisque.</p>
+                    <h2>blog post</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at ligula a erat dignissim tristique a eget diam. Quisque ultrices in augue sit amet bibendum. Curabitur accumsan accumsan massa, quis vestibulum dolor vehicula in. Praesent diam nibh, auctor eu arcu at, feugiat pellentesque turpis. Proin ac varius orci. Integer fermentum, nibh quis hendrerit volutpat, sapien urna porttitor magna, tempor accumsan ligula est et nulla. Nunc finibus ipsum ut magna dictum, eget sollicitudin risus commodo. Fusce fringilla nisi vitae elementum scelerisque.</p>
+                    <h2>blog post</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at ligula a erat dignissim tristique a eget diam. Quisque ultrices in augue sit amet bibendum. Curabitur accumsan accumsan massa, quis vestibulum dolor vehicula in. Praesent diam nibh, auctor eu arcu at, feugiat pellentesque turpis. Proin ac varius orci. Integer fermentum, nibh quis hendrerit volutpat, sapien urna porttitor magna, tempor accumsan ligula est et nulla. Nunc finibus ipsum ut magna dictum, eget sollicitudin risus commodo. Fusce fringilla nisi vitae elementum scelerisque.</p>
+                </article>
+            </div>
+        </div>
+    </header>
+    <footer>
+        <p>made by your mom,2025</p>
+    </footer>
+</body>
+
+</html>
