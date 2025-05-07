@@ -5,7 +5,7 @@ null,
 {"id":3,"expanded":true,"name":"ihouse","order":3,"parentId":2,"scrollX":811,"scrollY":457.5,"quick":false},
 {"id":4,"expanded":true,"name":"Basement","order":5,"parentId":3,"scrollX":811,"scrollY":457.5,"quick":false},
 {"id":5,"expanded":true,"name":"Throne Room","order":4,"parentId":3,"scrollX":811,"scrollY":457.5,"quick":false},
-{"id":6,"expanded":true,"name":"Town","order":7,"parentId":2,"scrollX":811,"scrollY":742.5,"quick":false},
+{"id":6,"expanded":true,"name":"Town","order":7,"parentId":2,"scrollX":819,"scrollY":742.5,"quick":false},
 {"id":7,"expanded":true,"name":"Port","order":20,"parentId":0,"scrollX":819,"scrollY":449.5,"quick":false},
 {"id":8,"expanded":true,"name":"Pub","order":9,"parentId":6,"scrollX":819,"scrollY":502.5,"quick":false},
 {"id":9,"expanded":true,"name":"Ocean","order":21,"parentId":7,"scrollX":819,"scrollY":449.5,"quick":false},
@@ -27,5 +27,5 @@ null,
 {"id":25,"expanded":false,"name":"Snow House upstairs","order":25,"parentId":13,"scrollX":811,"scrollY":449.5,"quick":false},
 null,
 {"id":27,"expanded":false,"name":"Armor shop","order":10,"parentId":6,"scrollX":811,"scrollY":457.5,"quick":false},
-{"id":28,"expanded":false,"name":"MAP028","order":11,"parentId":6,"scrollX":811,"scrollY":449.5,"quick":false}
+{"id":28,"expanded":false,"name":"MAP028","order":11,"parentId":6,"scrollX":811,"scrollY":457.5,"quick":false}
 ]
