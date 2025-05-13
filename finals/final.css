@@ -1,0 +1,18 @@
+body{
+    background-color: #b7b7A8;
+}
+ul{
+    background-color: #A6A592;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 80px;
+    margin-left: 80px;
+    border: #555447;
+}
+section{    
+    position: center;
+
+}
+footer{
+    font-size:65px;
+}
