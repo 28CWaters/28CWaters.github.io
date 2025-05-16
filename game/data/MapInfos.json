@@ -4,7 +4,7 @@ null,
 {"id":2,"expanded":true,"name":"oHouse","order":2,"parentId":0,"scrollX":811,"scrollY":449.5,"quick":false},
 {"id":3,"expanded":true,"name":"ihouse","order":3,"parentId":2,"scrollX":811,"scrollY":457.5,"quick":false},
 {"id":4,"expanded":true,"name":"Basement","order":5,"parentId":3,"scrollX":801,"scrollY":452.25,"quick":false},
-{"id":5,"expanded":true,"name":"Throne Room","order":4,"parentId":3,"scrollX":811,"scrollY":457.5,"quick":false},
+{"id":5,"expanded":true,"name":"Throne Room","order":4,"parentId":3,"scrollX":819,"scrollY":449.5,"quick":false},
 {"id":6,"expanded":true,"name":"Town","order":7,"parentId":2,"scrollX":813,"scrollY":686.25,"quick":false},
 {"id":7,"expanded":true,"name":"Port","order":12,"parentId":6,"scrollX":801,"scrollY":452.25,"quick":false},
 {"id":8,"expanded":true,"name":"Pub","order":9,"parentId":6,"scrollX":813,"scrollY":747.75,"quick":false},
@@ -31,5 +31,6 @@ null,
 {"id":29,"expanded":true,"name":"Snow Castle","order":26,"parentId":12,"scrollX":832,"scrollY":688.5,"quick":false},
 {"id":30,"expanded":false,"name":"Ice Cave","order":30,"parentId":0,"scrollX":816,"scrollY":1160.5,"quick":false},
 {"id":31,"expanded":true,"name":"Small Town","order":31,"parentId":0,"scrollX":819,"scrollY":478.5,"quick":false},
-{"id":32,"expanded":false,"name":"School Hallway","order":32,"parentId":31,"scrollX":819,"scrollY":449.5,"quick":false}
+{"id":32,"expanded":true,"name":"School Hallway","order":32,"parentId":31,"scrollX":819,"scrollY":457.5,"quick":false},
+{"id":33,"expanded":false,"name":"School Classroom","order":33,"parentId":32,"scrollX":819,"scrollY":449.5,"quick":false}
 ]
