@@ -16,15 +16,9 @@ null,
 {"id":14,"battlerName":"custom5","characterIndex":0,"characterName":"CUSTOM5","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"custom5","traits":[],"initialLevel":1,"maxLevel":99,"name":"Carl","nickname":"","note":"","profile":""},
 {"id":15,"battlerName":"","characterIndex":0,"characterName":"Nature_NV","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature_NV","traits":[],"initialLevel":1,"maxLevel":99,"name":"ButterDog","nickname":"B-Dawg","note":"","profile":"Dog with butter on him"},
 {"id":16,"battlerName":"caseoh","characterIndex":0,"characterName":"caseoh","classId":12,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Caseoh","traits":[],"initialLevel":1,"maxLevel":99,"name":"Caseoh","nickname":"Case","note":"","profile":"Likes to eat and wants steakhouse burrito back"},
-<<<<<<< HEAD
 {"id":17,"battlerName":"custom6","characterIndex":0,"characterName":"CUSTOM6","classId":3,"equips":[7,0,0,0,0],"faceIndex":0,"faceName":"custom6","traits":[],"initialLevel":1,"maxLevel":99,"name":"Violet","nickname":"","note":"","profile":"Supportive"},
 {"id":18,"battlerName":"custom8","characterIndex":0,"characterName":"custom8","classId":2,"equips":[7,0,0,0,0],"faceIndex":0,"faceName":"Custom8","traits":[],"initialLevel":1,"maxLevel":99,"name":"Spire","nickname":"","note":"","profile":""},
 {"id":19,"battlerName":"custom10","characterIndex":0,"characterName":"custom10","classId":8,"equips":[43,0,0,0,0],"faceIndex":0,"faceName":"custom10","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bobby","nickname":"Bob","note":"","profile":""},
-=======
-{"id":17,"battlerName":"custom6","characterIndex":0,"characterName":"CUSTOM6","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"custom6","traits":[],"initialLevel":1,"maxLevel":99,"name":"Violet","nickname":"","note":"","profile":"Supportive"},
-{"id":18,"battlerName":"custom8","characterIndex":0,"characterName":"custom8","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Custom8","traits":[],"initialLevel":1,"maxLevel":99,"name":"Spire","nickname":"","note":"","profile":""},
-{"id":19,"battlerName":"custom10","characterIndex":0,"characterName":"custom10","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"custom10","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bobby","nickname":"Bob","note":"","profile":""},
->>>>>>> 3881081568a7979856647faa7786bd5d26da4eab
 {"id":20,"battlerName":"custom11","characterIndex":0,"characterName":"custom11","classId":13,"equips":[52,0,0,0,0],"faceIndex":0,"faceName":"custom11","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jeff","nickname":"","note":"","profile":""},
 {"id":21,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":22,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
